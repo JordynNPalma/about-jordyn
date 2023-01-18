@@ -1,9 +1,14 @@
 body{
     font-family: "Helvetica";
+    background-color: cadetblue;
+    text-align: center;
 }
 h1 {
     font-family:"Helvetica Neue";
 }
-#imageOfJordyn{
+h2 {
+    text-decoration-line: underline;
+}
+img {
     width: 50%;
 }
